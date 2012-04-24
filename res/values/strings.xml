@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, CaiusListActivity!</string>
     <string name="app_name">CaiusList</string>
-
+    <string name="addPerson">Add a person</string>
+	<string name="addTask">Add a task</string>
+	<string name="about">About</string>
+	<string name="name">Name</string>
+	<string name="edit">Edit</string>
+	<string name="delete">Delete</string>
 </resources>

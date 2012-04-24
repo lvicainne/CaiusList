@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:id="@+id/addPerson" 
+        android:title="@+string/addPerson" 
+        android:icon="@+drawable/ic_menu_invite">
+    </item>
+    <item 
+        android:id="@+id/addTask" 
+        android:title="@+string/addTask" 
+        android:icon="@+drawable/ic_menu_add"></item>
+    <item android:id="@+id/item2" android:titleCondensed="Item 2" android:title="Item 2 mais avec un nom assez long quand même">
+        <menu>
+            <item android:id="@+id/item3" android:title="Item 2.1" android:checkable="true"/>
+            <item android:id="@+id/item4" android:title="Item 2.2"/>
+        </menu>
+    </item>
+    <item android:id="@+id/item5" android:title="Item 3" android:checkable="true"/>
+    <item android:id="@+id/about" android:title="@+string/about" android:icon="@+drawable/ic_menu_info_details"/>
+</menu>
