@@ -2,7 +2,7 @@ CaiusList
 ==========
 
 
-CaiusList is an Android application for managing contacts.
+**CaiusList** is an **Android application** for managing contacts.
 
 You have a list of task to check for each contact.
 
@@ -17,6 +17,14 @@ When you are a teacher and you have to check all your pupils have sent
 
 When you organize an event for a group of person and they have to give
 you some papers.
+
+
+Features (not implemented)
+-------------
+
+* Add people
+* Add common task
+* Save data into an XML file
 
 
 Status
